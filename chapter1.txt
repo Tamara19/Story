@@ -1,1 +1,1 @@
-The first lesson about git
+The first lesson about create branch
